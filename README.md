@@ -2,7 +2,6 @@
 
 Project magang di **Badan Pusat Statistik (BPS)** untuk memprediksi perubahan harga bulanan 20 komoditas pangan dan inflasi (MtM, YtD, YoY) menggunakan **SARIMAX**. Variabel eksogennya dipilih berdasarkan keterkaitan antar komoditas, misalnya cabai merah ↔ cabai rawit ↔ bawang, atau beras ↔ mie instan ↔ tepung terigu.
 
-> Project ini dikerjakan bersama [@arthuritokeintjem](https://github.com/arthuritokeintjem) selama magang. Repo aslinya ada di [arthuritokeintjem/BPS-Intern](https://github.com/arthuritokeintjem/BPS-Intern).
 
 ---
 
